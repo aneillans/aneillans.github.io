@@ -1,3 +1,12 @@
 theme: minima
 title: Coffee and Code
 description: Coming soon :P Maybe.
+
+minima:
+  skin: dark
+  social_links:
+    - { platform: rss, user_url: "https://infosec.exchange/@neillans" }
+
+author:
+  name: Andy Neillans
+  email: "andy@neillans.co.uk"
