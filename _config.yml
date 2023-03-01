@@ -20,6 +20,9 @@
 
 title: "Coffee and Code"
 description: "Coming soon :P Maybe."
+author: "Andy Neillans"
+mastodon:
+  - { username: neillans, instance: infosec.exchange }
 
 minima:
   skin: dark
