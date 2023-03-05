@@ -25,11 +25,12 @@ I have also come to realise something else throughout all this - and I have bare
 
 I am only touching a tiny part of the domestic abuse spectrum and it's depressing. I *dread* to think how people, both men and women, feel who ACTUALLY have to suffer full abuse feel when they are unable to properly reach out and get the help they need. Be it from services they should be able to trust, such as the police, or the courts. One of the *few* services that has been helpful has been the Domestic Abuse Advocacy Support Service and they have been working with me to ensure my safety, that court reports are completed and things keep moving forward - because this case is only one of several that I have now ended up with, all around this. 
 
-###References:
+### References:
 
 [What is Domestic Abuse](https://www.verywellmind.com/domestic-abuse-types-causes-and-impact-5324104)
+
 [Revenge Porn Law - Scotland](https://www.legislation.gov.uk/ssi/2017/93/made)
+
 [Revenge Porn Law - England](https://www.gov.uk/government/news/new-law-to-tackle-revenge-porn)
+
 [How to get help from Domestic Abuse](https://www.gov.uk/guidance/domestic-abuse-how-to-get-help)
-
-
