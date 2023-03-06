@@ -19,10 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Coffee and Code"
-description: "Coming soon :P Maybe."
+description: "SRE working in Financial Services, grumpy Scotsman, keeping the lights on"
 author: "Andy Neillans"
 mastodon:
   - { username: neillans, instance: infosec.exchange }
+github_username: aneillans
+linkedin_username: aneillans
 
 minima:
   skin: dark
@@ -36,8 +38,6 @@ minima:
 email: "andy@neillans.co.uk"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://neillans.co.uk" 
-#twitter_username: jekyllrb
-#github_username:  jekyll
 
 # Build settings
 theme: minima
