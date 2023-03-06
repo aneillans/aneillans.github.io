@@ -25,6 +25,7 @@ mastodon:
   - { username: neillans, instance: infosec.exchange }
 github_username: aneillans
 linkedin_username: aneillans
+google_analytics: G-8QB6NSKJQP
 
 minima:
   skin: dark
