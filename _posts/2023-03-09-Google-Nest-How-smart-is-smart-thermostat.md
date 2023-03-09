@@ -11,7 +11,7 @@ I had REALLY hoped for something more from the Google Nest frankly.
 
 The "Learning" approach it has - if you leave it enabled - where it will learn what you like temperature wise, and adjust your heating routine for you, is honestly frustrating for someone like me with control issues 😂. It had me wondering what the heck was going on when it would randomly decide the temperature needed to change and just ... did it. 
 
-The BEST feature I find is the ability to control it all from your phone. Pretty much ideal for when I'm working away, and needing to kick the heating on while heading back (no more going in to a cold house, bliss). But so many others can do this, such as Tado and such, so it's no a unique feature.
+The BEST feature I find is the ability to control it all from your phone. Pretty much ideal for when I'm working away, and needing to kick the heating on while heading back (no more going in to a cold house, bliss). But so many others can do this, such as Tado and such, so it's not a unique feature.
 
 What is terrible? The inability to boost to a temperature for a set time. You can boost the water for a set time, but NOT the heating. Why? According to Google, because the Thermostat is unable to track the temperature AND a timer at the same time. Erm. Ok. Seems an interesting limitation there. I'd have imagined something along the lines of a temporary schedule. 
 
