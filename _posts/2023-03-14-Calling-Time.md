@@ -17,7 +17,7 @@ Past 6 months I've also been getting spams - both trembling in hands, arms etc, 
 
 So what has this all got to do with calling time? 
 
-I love old cars.  I have a Subaru Impreza. 1996.  Love it.  Well.  I had.  Until this week.  It has gotten to the point I cannot comfortably drive it.  I can no longer work on it myself.  It has gotten to the point that the constant amount of money it takes to maintain something like that, and mental toll and effort to fight the parts it needs regularly is just too much.  And I can't keep doing it.  So it was time to make the hard choice to let the car of my childhood dreams go. 
+I love old cars.  I have a Subaru Impreza. 1996.  Love it.  Well.  I had.  Until this week.  It has gotten to the point I cannot comfortably drive it, with the heavy clutches they have.  I can no longer work on it myself given I have limited feeling and dexterity most of the time - even on a good day.  It has gotten to the point that the constant amount of money it takes to maintain something like that, and mental toll and effort to fight the parts it needs regularly is just too much.  And I can't keep doing it.  So it was time to make the hard choice to let the car of my childhood dreams go. I have been lucky enough to have owned two of them in my lifetime, and that will have to satisfy me for my remaining years. 
 
 I'd been putting off this decision for months.  Pretty much over winter, while it was getting things like the steering rack replaced and so on.  Because I didn't want to admit to myself how the decline had occurred, how things actually had gotten on those bad days (which while still rare, seem to be getting more frequent or prolonged spells). 
 
