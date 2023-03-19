@@ -91,10 +91,17 @@ Let the police deal with them, and stop trying to apportion blame on yourself.
 ### References:
 
 [Victim Blaming](https://en.wikipedia.org/wiki/Victim_blaming)
+
 [Mark Manson - How to Let Go](https://markmanson.net/how-to-let-go)
+
 [Clares Law](https://clares-law.com/)
+
 [Domestic Violence Disclosure Scheme](https://www.gov.uk/government/publications/domestic-abuse-bill-2020-factsheets/domestic-violence-disclosure-scheme-factsheet)
+
 [Clares Law Form - Met Police](https://www.met.police.uk/advice/advice-and-information/daa/domestic-abuse/alpha2/request-information-under-clares-law/)
+
 [Clares Law Form - West Midlands Police](https://www.west-midlands.police.uk/your-options/clares-law-domestic-violence-disclosure-scheme/)
+
 [Clares Law Form - Sussex Police](https://www.sussex.police.uk/police-forces/sussex-police/areas/campaigns/campaigns/clares-law---domestic-violence-disclosure-scheme-dvds/)
+
 [Clares Law Form - Police Scotland](https://www.scotland.police.uk/advice-and-information/domestic-abuse/disclosure-scheme-for-domestic-abuse-scotland/)
