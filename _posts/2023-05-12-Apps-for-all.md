@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Apps for everything!"
-date:   2023-05-12 14:30:00 +0000
+date:   2023-05-12 13:30:00 +0000
 categories: technology
 ---
 
